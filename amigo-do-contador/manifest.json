@@ -1,0 +1,25 @@
+
+{
+  "short_name": "ContadorAI",
+  "name": "Amigo do Contador",
+  "description": "Seu assistente virtual especializado em contabilidade e legislação fiscal brasileira.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1E293B", 
+  "theme_color": "#2563EB",
+  "orientation": "portrait-primary"
+}
